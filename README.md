@@ -49,39 +49,39 @@ The primary objective of this dashboard is to help organizations:
 
 ## 📌 Dashboard 1 – Executive Overview
 
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](images/Dashboard 1.png)
 
 ## 🚛 Dashboard 2 – Fleet Utilization Analysis
 
-![Dashboard 2](images/dashboard2.png)
+![Dashboard 2](images/Dashboard 2.png)
 
 ## ⛽ Dashboard 3 – Fuel Consumption & Running Cost
 
-![Dashboard 3](images/dashboard3.png)
+![Dashboard 3](images/Dashboard 3.png)
 
 ## 🔧 Dashboard 4 – Maintenance & Repair Analysis
 
-![Dashboard 4](images/dashboard4.png)
+![Dashboard 4](images/Dashboard 4.png)
 
 ## ⏱️ Dashboard 5 – Vehicle Downtime Analysis
 
-![Dashboard 5](images/dashboard5.png)
+![Dashboard 5](images/Dashboard 5.png)
 
 ## 📍 Dashboard 6 – Branch-wise Fleet Performance
 
-![Dashboard 6](images/dashboard6.png)
+![Dashboard 6](images/Dashboard 6.png)
 
 ## 🚚 Dashboard 7 – Vehicle Performance Dashboard
 
-![Dashboard 7](images/dashboard7.png)
+![Dashboard 7](images/Dashboard 7.png)
 
 ## 🚨 Dashboard 8 – Fuel Anomaly Detection
 
-![Dashboard 8](images/dashboard8.png)
+![Dashboard 8](images/Dashboard 8.png)
 
 ## 📈 Dashboard 9 – KPI Summary & Business Insights
 
-![Dashboard 9](images/dashboard9.png)
+![Dashboard 9](images/Dashboard 9.png)
 
 ---
 
