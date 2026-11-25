@@ -114,7 +114,7 @@ The dashboard uses sample fleet management data containing:
 
 ## 👨‍💻 Developed By
 
-**Shiva Dharshan**
+**Dharshan C**
 
 Final Year B.Tech Information Technology Student
 
